@@ -1,9 +1,9 @@
 const calculator = [
-  (number1, number2) => number1 + number2,
-  (number1, number2) => number1 - number2,
-  (number1, number2) => number1 * number2,
-  (number1, number2) => number1 / number2,
-  (number1, number2) => Math.pow(number1, number2)
+ (number1, number2) => number1 + number2,
+ (number1, number2) => number1 - number2,
+ (number1, number2) => number1 * number2,
+ (number1, number2) => number1 / number2,
+ (number1, number2) => Math.pow(number1, number2)
 ]
 
 function calcular(event) {
